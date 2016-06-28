@@ -25,5 +25,3 @@ Now, Sometimes when you reinvent, you make mistakes. I think the correct way is 
 innovations, so I'd love to hear from you comments, insights etc..
 
 Good luck with your projects !
-
-file:///C:/Users/idan.sagiv/Desktop/Arduino%20IDE%20Darkt%20heme%20picture.png
