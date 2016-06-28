@@ -4,6 +4,7 @@ Sometimes the commonly used term of black and white meaning "Clearly more to the
 But in fact this is not really the most obvious combination ..
 
 I thought maybe it's time to really give to the Arduino IDE a little color to the cheeks.
+
 What does that mean?!
 
 It means changing the color settings for all functions that comes in default settings with the white theme software that it's all
