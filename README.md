@@ -17,7 +17,7 @@ The bottom line is, I made this color changes on the screen so beautiful you'll 
 I have not deleted anything that existed in the original file, the original files extension is named "Original".
 
 All you have to do is extract the zip file called "lib" that I attached to you and drop it instead of the original one that existing in
-your computer drive: C: \ Program Files (x86) \ Arduino \___
+your computer drive: C: \ Program Files (x86) \ Arduino \ ___
 
 It is important for me to note: This theme Supporting at The current version of the arduino (1.6.9), didn't checked on and earlier ones..
 
